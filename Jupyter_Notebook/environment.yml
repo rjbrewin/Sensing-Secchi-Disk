@@ -4,6 +4,7 @@ dependencies:
   - pandas
   - pip
   - pip:
+    - pandas 
     - datetime
     - linecache
     - re
