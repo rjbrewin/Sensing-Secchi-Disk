@@ -2,8 +2,6 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
-  - pip
-  - pip:
-    - datetime
-    - linecache
-    - re
+  - datetime
+  - linecache
+  - re
