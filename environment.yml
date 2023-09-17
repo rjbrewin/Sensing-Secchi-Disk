@@ -5,5 +5,5 @@ dependencies:
   - pip
   - pip:
     - datetime
-    - linecache
+    - linecache2
     - re
