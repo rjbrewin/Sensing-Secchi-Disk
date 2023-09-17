@@ -301,7 +301,7 @@ void loop() {
         //Add header to file
         File myFile = SD.open(logFile, FILE_WRITE);
         if (myFile) {
-          myFile.println("Sensing Secchi S/N = A004" );;
+          myFile.println("SensingSecchi S/N = A004" );;
           myFile.print("Latitude (degs N) = " ); myFile.println(latitude_FIN);
           myFile.print("Longitude (degs E) = "); myFile.println(longitude_FIN);
           myFile.print("Date = "); myFile.println(getDateStamp_FIN); // Date// Date
