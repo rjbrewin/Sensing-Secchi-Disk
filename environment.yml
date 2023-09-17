@@ -1,0 +1,10 @@
+dependencies:
+  - anaconda
+  - pip
+  - pip:
+    - numpy
+    - matplotlib
+    - datetime
+    - pandas
+    - linecache
+    - re
