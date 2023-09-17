@@ -6,4 +6,4 @@ dependencies:
   - pip:
     - datetime
     - linecache2
-    - re
+    - regex
